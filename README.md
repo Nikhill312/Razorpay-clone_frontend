@@ -16,6 +16,8 @@ In this project, I aimed to replicate the frontend of the official Razorpay webs
 Usage
 To view the Razorpay website clone, open the index.html file in a web browser. Feel free to explore the cloned web pages, styles, and layout. This project can serve as a reference for learning frontend web development and applying styling techniques using Tailwind CSS.
 
+
+
 Technologies Used
 HTML
 Tailwind CSS
